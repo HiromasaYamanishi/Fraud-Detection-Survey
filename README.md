@@ -6,36 +6,36 @@ Fraud Detection に関する論文のサーベイ。
 
 ### GNN-Based
 
-* [Paper Title](./GNN-Based.md)
+* [Semi-supervised Credit Card Fraud Detection via Attribute-Driven Graph Representation](./papers/Semi-supervised-Credit-Card-Fraud-Detection-via-Attribute-Driven-Graph-Representation.md)
 
 ### LLM-Based
 
-* [Paper Title](./LLM-Based.md)
+* [Paper Title](./papers/Paper-Title.md)
 
 ### Transformer-Based
 
-* [Paper Title](./Transformer-Based.md)
+* [Paper Title](./papers/Paper-Title.md)
 
 ### Traditional ML-Based
 
-* [Paper Title](./Traditional-ML-Based.md)
+* [Paper Title](./papers/Paper-Title.md)
 
 ### Deep Learning-Based
 
-* [Paper Title](./Deep-Learning-Based.md)
+* [Paper Title](./papers/Paper-Title.md)
 
 ### Anomaly Detection
 
-* [Paper Title](./Anomaly-Detection.md)
+* [Paper Title](./papers/Paper-Title.md)
 
 ### Self-Supervised Learning
 
-* [Paper Title](./Self-Supervised-Learning.md)
+* [Paper Title](./papers/Paper-Title.md)
 
 ### Hybrid
 
-* [Paper Title](./Hybrid.md)
+* [Paper Title](./papers/Paper-Title.md)
 
 ### Real-Time Fraud Detection
 
-* [Paper Title](./Real-Time-Fraud-Detection.md)
+* [Paper Title](./papers/Paper-Title.md)
