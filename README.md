@@ -8,6 +8,9 @@ Fraud Detection に関する論文のサーベイ。
 
 * [Semi-supervised Credit Card Fraud Detection via Attribute-Driven Graph Representation](./paper/gnn/Semi-supervised-Credit-Card-Fraud-Detection-via-Attribute-Driven-Graph-Representation.md)
 
+* [Transfrmer-Based Financial Fraud Detection with Cloud-Optimized Real-Time Streaming](paper/gnn/transformer-based-financial-fraud-detection.md)
+
+
 ### LLM-Based
 
 * [Paper Title](./papers/Paper-Title.md)
