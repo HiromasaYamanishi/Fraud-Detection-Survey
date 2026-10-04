@@ -12,6 +12,8 @@ Fraud Detection に関する論文のサーベイ。無料でサーベイでき�
 
 * [Fraud Detection and Risk Assessment of Online Payment Transactions on E-Commerce Platforms Based on LLM and GCN Frameworks](paper/gnn/Fraud Detection and Risk Assessment of Online Payment Transactions on E-Commerce Platforms Based on LLM and GCN Frameworks.md)
 
+* [Knowledge Graph-Driven Generative Framework for Interpretable Financial Fraud Detection](paper/gnn/Knowledge Graph-Driven Generative Framework for Interpretable Financial Fraud Detection.md)
+
 ### LLM-Based
 
 * [Credit Card Fraud Detection
