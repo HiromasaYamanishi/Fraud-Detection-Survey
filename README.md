@@ -1,6 +1,6 @@
 # Fraud Detection Papers
 
-Fraud Detection に関する論文のサーベイ。
+Fraud Detection に関する論文のサーベイ。無料でサーベイできる範囲 (ACM, arxiv等)をまとめます
 
 ## Categories
 
@@ -8,7 +8,7 @@ Fraud Detection に関する論文のサーベイ。
 
 * [Semi-supervised Credit Card Fraud Detection via Attribute-Driven Graph Representation](./paper/gnn/Semi-supervised-Credit-Card-Fraud-Detection-via-Attribute-Driven-Graph-Representation.md)
 
-* [Transfrmer-Based Financial Fraud Detection with Cloud-Optimized Real-Time Streaming](paper/gnn/transformer-based-financial-fraud-detection.md)
+* [Transfrmer-Based Financial Fraud Detection with Cloud-Optimized Real-Time Streaming](paper/gnn/Transformer-Based Financial Fraud Detection with Cloud-Optimized Real-Time Streaming.md)
 
 
 ### LLM-Based
