@@ -10,10 +10,13 @@ Fraud Detection に関する論文のサーベイ。無料でサーベイでき�
 
 * [Transfrmer-Based Financial Fraud Detection with Cloud-Optimized Real-Time Streaming](paper/gnn/Transformer-Based Financial Fraud Detection with Cloud-Optimized Real-Time Streaming.md)
 
+* [Fraud Detection and Risk Assessment of Online Payment Transactions on E-Commerce Platforms Based on LLM and GCN Frameworks](paper/gnn/Fraud Detection and Risk Assessment of Online Payment Transactions on E-Commerce Platforms Based on LLM and GCN Frameworks.md)
 
 ### LLM-Based
 
-* [Paper Title](./papers/Paper-Title.md)
+* [Credit Card Fraud Detection
+Using Advanced Transformer Model](./papers/transformer/Credit Card Fraud Detection
+Using Advanced Transformer Model.md)
 
 ### Transformer-Based
 
